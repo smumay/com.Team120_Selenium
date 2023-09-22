@@ -18,5 +18,7 @@ public class C03_driverObjesi {
 
         Thread.sleep(3000);
         driver.close();
+
+
     }
 }
